@@ -7,6 +7,9 @@
 
 ---
 
+> [!NOTE]
+> Kaggle [datasets](/dataset_archive) and [notebooks](/notebook_archive) are also archived in this repository.
+
 ## Datasets
 
 - [French rare words lexicon](https://www.kaggle.com/datasets/grimespoint/french-unusual-words): a CSV of 9,351 uncommon French words annotated with gender, lemma, phonological transcription, frequency index, and dictionary definitions for NLP, lexicography, and language‑learning research.
