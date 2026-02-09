@@ -15,7 +15,7 @@
 - [Fallout: New Vegas, the dataset](https://www.kaggle.com/datasets/grimespoint/fallout-new-vegas-dataset). A Narrative corpus with speaker and other metadata tagged text entries containing mostly dialogues mined from the game. This 59415 entries rich dataset enables NLP and game design researchers to unlock their post-apocalyptic storytelling potential and other advanced language modeling perks.
   - Related project: [Fallout New Vegas papyrus](https://github.com/brooks-code/new-vegas-papyri)
 
-- [French rare words lexicon](https://www.kaggle.com/datasets/grimespoint/french-unusual-words): a CSV of 9,351 uncommon French words annotated with gender, lemma, phonological transcription, frequency index, and dictionary definitions for NLP, lexicography, and language‑learning research.
+- [French rare words lexicon](https://www.kaggle.com/datasets/grimespoint/french-unusual-words): a CSV of 9351 uncommon French words annotated with gender, lemma, phonological transcription, frequency index, and dictionary definitions for NLP, lexicography, and language‑learning research.
   - Related project: [dailyword](https://github.com/brooks-code/fuzzy-carnival)
 
 - [Toulouse public libraries loans dataset](https://www.kaggle.com/datasets/grimespoint/toulouse-public-library-mdiathque-dataset): a CSV that contains annual circulation statistics and bibliographic metadata for print, music and movie items from the Toulouse public library collection. It is designed for analyzing lending trends, collection management, patron behavior, and media usage.
