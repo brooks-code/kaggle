@@ -12,7 +12,10 @@
 
 ## Datasets
 
-- [Fallout: New Vegas, the dataset](https://www.kaggle.com/datasets/grimespoint/fallout-new-vegas-dataset). A Narrative corpus with speaker and other metadata tagged text entries containing mostly dialogues mined from the game. This 59415 entries rich dataset enables NLP and game design researchers to unlock their post-apocalyptic storytelling potential and other advanced language modeling perks.
+- [Paris flood dataset](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset). A tabular dataset that provides 125+ years of daily maximum water level measurements (1900–February 2026) from hydrometric stations monitoring the Seine River at Paris Austerlitz. Data collected via the official Hub'Eau API and formatted as a clean, chronologically ordered CSV file that includes 53,332 records with minimal gaps and no artificial interpolation.
+  - Related project: [Fluctuat nec mergitur](https://github.com/brooks-code/paris-flood-dataset)
+
+- [Fallout: New Vegas, the dataset](https://www.kaggle.com/datasets/grimespoint/fallout-new-vegas-dataset). A narrative corpus with speaker and other metadata tagged text entries containing mostly dialogues mined from the game. This 59415 entries rich dataset enables NLP and game design researchers to unlock their post-apocalyptic storytelling potential and other advanced language modeling perks.
   - Related project: [Fallout New Vegas papyrus](https://github.com/brooks-code/new-vegas-papyri)
 
 - [French rare words lexicon](https://www.kaggle.com/datasets/grimespoint/french-unusual-words): a CSV of 9351 uncommon French words annotated with gender, lemma, phonological transcription, frequency index, and dictionary definitions for NLP, lexicography, and language‑learning research.
@@ -22,6 +25,8 @@
   - Related project: [Toulouse biblio chronicle](https://github.com/brooks-code/toulouse-biblio-chronicle)
 
 ## Notebooks
+
+- Paris flood dataset, [the designer notebook](https://www.kaggle.com/code/grimespoint/paris-flood-dataset-the-design-data-visualization) is an exploratory data analysis of the Paris flood dataset that leverages top-notch visualization techniques to achieve visually striking results through creative design. This is a follow-up of the [dataswag](https://brooks-code.github.io/miniature-fortnight) submission to the Hackaviz competition.
 
 - [Fallout: New Vegas data exploration notebook](https://www.kaggle.com/code/grimespoint/fallout-new-vegas-dataset-exploration) is an NLP tailored playground that explores and transforms raw game text through some systematic exploratory data analysis and preprocessing.
 
