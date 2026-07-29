@@ -28,9 +28,9 @@
 
 ## Notebooks
 
-- Learn ETL pipeline development and data engineering best practices by building a [production-ready automated system](https://www.kaggle.com/code/grimespoint/data-engineering-with-python-etl-pipeline) that fetches, transforms, and publishes Paris Seine river hydrometric data to Kaggle.
+- Learn ETL pipeline development and data engineering best practices by building a [production-ready automated system](https://www.kaggle.com/code/grimespoint/data-engineering-with-python-etl-pipeline) that fetches, transforms, and publishes Paris Seine river hydrometric data to Kaggle. Now also a [fCC tutorial](https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/)!
 
-- Paris flood dataset, [the designer notebook](https://www.kaggle.com/code/grimespoint/award-winning-data-visualization-with-python) is an exploratory data analysis of the Paris flood dataset that leverages top-notch visualization techniques to achieve visually striking results through creative design. This is a follow-up of the [dataswag](https://hyperphantasia.github.io/miniature-fortnight) submission to the Hackaviz competition.
+- Paris flood dataset, [the designer notebook](https://www.kaggle.com/code/grimespoint/hackathon-data-visualization-with-python) is an exploratory data analysis of the Paris flood dataset that leverages top-notch visualization techniques to achieve visually striking results through creative design. This is a follow-up of the [dataswag](https://hyperphantasia.github.io/miniature-fortnight) submission to the Hackaviz competition.
 
 - [Fallout: New Vegas data exploration notebook](https://www.kaggle.com/code/grimespoint/fallout-new-vegas-dataset-exploration) is an NLP tailored playground that explores and transforms raw game text through some systematic exploratory data analysis and preprocessing.
 
