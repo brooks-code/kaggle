@@ -8,13 +8,13 @@
 ---
 
 > [!NOTE]
-> Kaggle [datasets](/dataset_archive) and [notebooks](/notebook_archive) are also archived in this repository.
+> First versions of the Kaggle [datasets](/dataset_archive) and [notebooks](/notebook_archive) are also archived in this repository.
 
 ## Datasets
 
 - [Paris flood dataset](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset). A tabular dataset that provides 125+ years of daily maximum water level measurements (starting from Jan. 1900) from hydrometric stations monitoring the Seine River at Paris Austerlitz. Data collected via the official Hub'Eau API and formatted as a clean, chronologically ordered CSV file that includes 53,000+ records with minimal gaps and no artificial interpolation.
   - Related project: [Fluctuat nec mergitur](https://github.com/hyperphantasia/paris-flood-dataset)
-  - > The Kaggle dataset updates weekly thanks to an [automated pipeline](https://www.kaggle.com/code/grimespoint/paris-flood-dataset-weekly-updater). 
+  - > The Kaggle dataset updates weekly thanks to an [automated pipeline](https://www.kaggle.com/code/grimespoint/paris-flood-dataset-weekly-updater).
 
 - [Fallout: New Vegas, the dataset](https://www.kaggle.com/datasets/grimespoint/fallout-new-vegas-dataset). A narrative corpus with speaker and other metadata tagged text entries containing mostly dialogues mined from the game. This 59415 entries rich dataset enables NLP and game design researchers to unlock their post-apocalyptic storytelling potential and other advanced language modeling perks.
   - Related project: [Fallout New Vegas papyrus](https://github.com/hyperphantasia/new-vegas-papyri)
@@ -22,9 +22,9 @@
 - [French rare words lexicon](https://www.kaggle.com/datasets/grimespoint/french-unusual-words): a CSV of 9351 uncommon French words annotated with gender, lemma, phonological transcription, frequency index, and dictionary definitions for NLP, lexicography, and language‑learning research.
   - Related project: [dailyword](https://github.com/hyperphantasia/fuzzy-carnival)
 
-- [Toulouse public libraries loans dataset](https://www.kaggle.com/datasets/grimespoint/toulouse-public-library-mdiathque-dataset): 21000+ records collected through the Toulouse Métropole Open data portal. CSV and parquet exports contain more than a decade worth of annual circulation statistics and bibliographic metadata for print, music and movie items from the Toulouse public library collection. It is designed for analyzing lending trends, collection management, patron behavior, and media usage. 
+- [Toulouse public libraries loans dataset](https://www.kaggle.com/datasets/grimespoint/toulouse-public-library-mdiathque-dataset): 21000+ records collected through the Toulouse Métropole Open data portal. CSV and parquet exports contain more than a decade worth of annual circulation statistics and bibliographic metadata for print, music and movie items from the Toulouse public library collection. It is designed for analyzing lending trends, collection management, patron behavior, and media usage.
   - Related project: [Toulouse biblio chronicle](https://github.com/hyperphantasia/toulouse-biblio-chronicle)
-  - > The Kaggle dataset updates yearly thanks to a [scheduled ETL pipeline](https://www.kaggle.com/code/grimespoint/toulouse-public-library-dataset-automatic-update). 
+  - > The Kaggle dataset updates yearly thanks to a [scheduled ETL pipeline](https://www.kaggle.com/code/grimespoint/toulouse-public-library-dataset-automatic-update).
 
 ## Notebooks
 
